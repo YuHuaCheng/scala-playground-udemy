@@ -15,5 +15,4 @@ object ValuesVariablesTypes extends App {
 
   var aVariable = 4  // side effects
   aVariable = 10
-
 }
